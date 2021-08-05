@@ -4,7 +4,7 @@ function sayHi() {
 
   function work() {
     alert('Work');
-    //adada
+    //ada
   }
 
   function sayBye() {
