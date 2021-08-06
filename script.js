@@ -5,4 +5,5 @@ function sayHi() {
   function sayBye() {
     alert('Bye Git');
   }
-  //.dfeff
+  //пробуем merge
+  
